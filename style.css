@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width:30%;
+    float: left;
+    background-color:#003399;
+ 
+    
+}
+.content {
+    width:70%;
+    float: left;
+ 
+}
+h1,h2 {
+    margin: 10px;
+    color:white;
+}
+
+
+/*
+Design Personal Info
+*/
+#info {
+    background-color:#0000ff;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+#contact {
+    margin:10px;
+    font-size: 20px;
+    color: white;
+}
+
+#contact-content{
+    margin: 10px;
+    color:white;
+}
+
+/*
+Design Skill Info
+*/
+ul#info-list {
+    list-style-type: none;
+    margin: 5px 0 0 0;
+    padding:0;
+    color: white;
+}
+li#info-item {
+    border-bottom: 1px solid #fff;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom:5px;
+}
+
+/*
+Design Software dan Bahasa Info 
+*/
+span.dot {
+    background-color:greenyellow;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+}
+
+/*
+Design Summary 
+*/
+
+#summary {
+    font-size: 26px;
+    text-align: justify;
+    
+}
+#exp {
+    border-top: 2px solid #4444;
+    font-size: 26px;
+    text-align: center;
+    border-bottom: 2px solid #4444;
+}
+
+table {
+    width: 100%;
+    font-size: 20px;
+}
+
+
